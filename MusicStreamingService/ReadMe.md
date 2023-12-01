@@ -8,7 +8,7 @@
 
 ## Framework used
  * Spring Boot
-## Languaged Uesd
+## Language Used
  * Java
 ## Dependencies
  * Spring Web
